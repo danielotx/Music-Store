@@ -17,6 +17,7 @@ Estas foram algumas das tecnologias utilizadas neste projeto:
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [TypeScript](https://www.typescriptlang.org/)
 * [React](https://reactjs.org/)
+* [Tailwind](https://tailwindcss.com/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
