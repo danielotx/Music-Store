@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-Este projeto é uma loja online com ordenação de items, filtros e carrinho de compras.
+Este projeto é uma loja online com ordenação de itens, filtros e carrinho de compras.
 
 Desafio realizado para a Movisis
 
