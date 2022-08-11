@@ -1,27 +1,3 @@
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#sobre-o-projeto">Sobre o projeto</a>
-      <ul>
-        <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#iniciando">Iniciando</a>
-      <ul>
-        <li><a href="#prerequisitos">Pre-requisitos</a></li>
-      </ul>
-    </li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
